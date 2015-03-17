@@ -43,8 +43,8 @@ package com.sun.mail.smtp;
 import java.io.*;
 import java.util.*;
 import java.util.logging.Level;
-import javax.security.sasl.*;
-import javax.security.auth.callback.*;
+import cirruspath.javax.security.sasl.*;
+import cirruspath.javax.security.auth.callback.*;
 import javax.mail.MessagingException;
 
 import com.sun.mail.util.*;

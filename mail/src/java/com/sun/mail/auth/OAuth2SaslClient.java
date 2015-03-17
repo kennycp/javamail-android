@@ -45,8 +45,8 @@ import java.io.UnsupportedEncodingException;
 import java.util.Map;
 import java.security.Provider;
 import java.security.Security;
-import javax.security.sasl.*;
-import javax.security.auth.callback.*;
+import cirruspath.javax.security.sasl.*;
+import cirruspath.javax.security.auth.callback.*;
 
 import com.sun.mail.util.ASCIIUtility;
 

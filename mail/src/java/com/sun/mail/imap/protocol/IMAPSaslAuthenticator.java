@@ -43,8 +43,8 @@ package com.sun.mail.imap.protocol;
 import java.io.*;
 import java.util.*;
 import java.util.logging.Level;
-import javax.security.sasl.*;
-import javax.security.auth.callback.*;
+import cirruspath.javax.security.sasl.*;
+import cirruspath.javax.security.auth.callback.*;
 
 import com.sun.mail.iap.*;
 import com.sun.mail.imap.*;
